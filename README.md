@@ -15,16 +15,12 @@ Create separated hosts files.
     $ mkdir /etc/hosts.d
     $ cd /etc/hosts.d
 
-    $ vim hosts.conf
-
-Write hosts settings
+Write hosts settings `hosts.conf`
 
     127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4 devel.localdomain
     ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6 devel.localdomain
 
-    $ vim devel.hosts.conf
-
-Write another hosts settings
+Write another hosts settings `devel.hosts.conf`
 
     127.0.0.1   my.development.service.localdomain
 
