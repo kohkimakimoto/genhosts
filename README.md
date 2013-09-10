@@ -24,7 +24,7 @@ Write another hosts settings `devel.hosts.conf`
 
     127.0.0.1   my.development.service.localdomain
 
-run `genhosts` command to generate `/etc/hosts`.
+Run `genhosts` command to generate `/etc/hosts`.
 
     $ genhosts
 
