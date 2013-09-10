@@ -2,6 +2,8 @@
 
 #
 # genhosts - generate hosts file form /etc/hosts.d/*.conf
+# 
+# repository: https://github.com/kohkimakimoto/genhosts
 #
 
 OUTPUT=/etc/hosts
