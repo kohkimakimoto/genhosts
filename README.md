@@ -6,7 +6,7 @@ genhosts - generate hosts file from /etc/hosts.d/*.conf
 
     $ curl -O https://raw.github.com/kohkimakimoto/genhosts/master/genhosts
     $ chmod 755 genhosts
-    $ sudo cp genhosts /usr/local/bin/
+    $ sudo mv genhosts /usr/local/bin/
 
 ## Usage
 
